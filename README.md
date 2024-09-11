@@ -7,7 +7,7 @@ This Python script implements a simple Rock-Paper-Scissors game where the player
   1. Run the script:
   
   ```bash
-  python rock_paper_scissors.py
+  python snake_water_gun.py
   ```
   2. Enter your choice when prompted: "Snake(s), Water(w), or Gun(g)."
   3. The computer will randomly choose one of the options.
